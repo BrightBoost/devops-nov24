@@ -1,5 +1,5 @@
 ## Goals
-- You need to be able to open this app in the browser. !!TODO OUTSIDE VM?
+- You need to be able to open this app in the browser.
 - The github link is [here](https://github.com/BrightBoost/demo-node-app).
 - Yes, you need to do some ops before you can run it.
 - Need hints? Check out [our hints](hints.md).
